@@ -18,11 +18,11 @@ LABEL org.freenas.interactive="false" \
                \"descr\": \"SSL certs\"			\
           },								\
           {								\
-              \"name\": \"/config/Downloads/incomplete\",			\
+              \"name\": \"/incomplete-downloads\",			\
               \"descr\": \"incomplete downloads volume\"		\
           },								\
           {								\
-              \"name\": \"/config/Downloads/complete\",					\
+              \"name\": \"/downloads\",					\
               \"descr\": \"downloads volume\"				\
            },								\
           {								\
